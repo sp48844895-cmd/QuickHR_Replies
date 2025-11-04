@@ -21,11 +21,6 @@
    ```bash
    composer install
    ```
-   
-   **Optional:** If you need to modify frontend assets:
-   ```bash
-   npm install
-   ```
 
 3. **Configure environment**
    ```bash
